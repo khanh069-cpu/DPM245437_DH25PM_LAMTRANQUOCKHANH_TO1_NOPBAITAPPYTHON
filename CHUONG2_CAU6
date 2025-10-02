@@ -1,0 +1,6 @@
+"""
+
+Trong Python, toán tử / là phép chia thông thường, trả về số thực. Toán tử // là phép chia nguyên, loại bỏ phần thập phân của kết quả. Toán tử % là phép chia lấy dư, trả về phần còn lại sau khi chia. Toán tử ** là phép toán lũy thừa. 
+Toán tử and trả về True chỉ khi cả hai biểu thức đều đúng, còn or trả về True nếu ít nhất một biểu thức đúng. Cuối cùng, is dùng để so sánh xem hai đối tượng có phải là cùng một đối tượng trong bộ nhớ hay không. 
+
+"""
